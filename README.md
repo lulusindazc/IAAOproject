@@ -1,4 +1,4 @@
-# Get
+# IAAO
 
 This is the repository that contains source code for the [IAAO website](https://lulusindazc.github.io/IAAOproject/).
 

@@ -2,7 +2,7 @@
 
 This is the repository that contains source code for the [IAAO website](https://lulusindazc.github.io/IAAOproject/).
 
-If you find Get useful for your work please cite:
+If you find IAAO useful for your work please cite:
 ```
 @inproceedings{zhang2025iaao,
   title={IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments},
